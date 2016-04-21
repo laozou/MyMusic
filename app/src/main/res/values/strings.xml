@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMusic</string>
+    <string name="musicName">当前播放歌曲</string>
+    <string name="musicNext">下一首</string>
+    <string name="music_Play_Pause">播放或暂停</string>
+    <string name="musicPrev">上一首</string>
+    <string name="list_music_name">Music Name</string>
+</resources>
